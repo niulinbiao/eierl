@@ -1,0 +1,8 @@
+{
+	"vocab_size": 500,
+	"forward_scale": 0.8,
+	"inverse_scale": 0.2,
+	"Qloss_scale": 0.1,
+	"intrinsic_scale": 1,
+	"use_extrinsic": true
+}
